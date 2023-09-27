@@ -13,6 +13,8 @@ I did not model the glass inside the insert, as it would change person to person
 
 Again, this model is NOT a mount for ETVR cameras and v4 boards (or below). But purely as access to the Index WidmoVR Insert in case anyone in the future wants to model 'Something' around it, as WidmoVR was unable to give me a 3d model themselves. 
 
+**There is no left and right as of right now, as you can just flip it around and it'll fit**
+
 ## Usage and Licensing
 
 - This repository does not grant any rights or licenses for the original WidmoVR 3D model.
